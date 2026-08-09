@@ -8,4 +8,4 @@
 ## Process
 - When commands fail due to sandbox permissions, either request escalation or pause there
   - No temporary cache directories or other workarounds unless explicitely requested
-- Never try to start the local/dev server for any project
+- Always stop for the user to commit and push code; rebasing is fine when asked though
