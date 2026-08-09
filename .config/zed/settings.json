@@ -217,7 +217,7 @@
     "gopls": {
       "initialization_options": {
         "gofumpt": true,
-        "buildFlags": ["-tags=integrationtest,integration,manual,wireinject"],
+        "buildFlags": ["-tags=integrationtest,integration,manual,smoke,wireinject"],
         "hints": {
           "constantValues": true,
           "parameterNames": true
