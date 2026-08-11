@@ -7,9 +7,8 @@
 
 ## Process
 - When commands fail due to sandbox permissions, either request escalation or pause there
-  - No temporary cache directories or other workarounds unless explicitely requested
 - Always stop for the user to commit and push code; rebasing is fine when asked though
-- When communicating to the user or writing text-based files, write in ASD-STE100 (a.k.a Simplified Technical English); additionally follow the principles of quality writing:
+- When communicating to the user or writing in text-based files, write in ASD-STE100 (a.k.a. Simplified Technical English); additionally follow the principles of quality writing:
   1. Simplicity
   2. Brevity
   3. Clarity
